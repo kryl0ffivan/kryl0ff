@@ -204,11 +204,12 @@ body{
     text-align: center;
     padding: 8px 9px 8px 16px;
     color: #7E7E82;
+    border: 2px solid transparent;
 }
 .side-main__btn:hover {
    
     background: #FFFFFF;
-    border: 2px solid #B8FFEC transparent;
+    border: 2px solid #B8FFEC;
     border-radius: 6px;
 }
 .limiter{
