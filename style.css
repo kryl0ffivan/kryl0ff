@@ -206,8 +206,9 @@ body{
     color: #7E7E82;
 }
 .side-main__btn:hover {
+   
     background: #FFFFFF;
-    border: 2px solid #B8FFEC;
+    border: 2px solid #B8FFEC transparent;
     border-radius: 6px;
 }
 .limiter{
